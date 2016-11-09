@@ -20,6 +20,7 @@
 
 3. Download the certificate from Partner Console's configuration page and save it as `cert.pem` in the `resources` folder.
 
+More help on this at https://www.zoho.com/developer/help/extensions/custom-php-connected-app.html
 
 ### OAuth Configuration
 
@@ -39,5 +40,6 @@
 
 2. Set the `client_id` and `client_secret` that you received during your oauth client registration from Zoho Developer Console.
 
+> **Note:** The OAuth2 is in beta yet.
+For test purpose an api to get a lead is provided in the test folder, which uses the oauth token.
 
-Find More help on https://www.zoho.com/developer/help/extensions/custom-php-connected-app.html
