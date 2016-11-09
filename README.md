@@ -40,6 +40,8 @@ More help on this at https://www.zoho.com/developer/help/extensions/custom-php-c
 
 2. Set the `client_id` and `client_secret` that you received during your oauth client registration from Zoho Developer Console.
 
+Find a live version of an oauth client at http://2814.cf/zohosp/oauth/auth_initiate.php
+
 > **Note:** The OAuth2 is in beta yet.
 For test purpose an api to get a lead is provided in the test folder, which uses the oauth token.
 
